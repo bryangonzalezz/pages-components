@@ -4,4 +4,3 @@ import { initRoute } from "./router";
   const root = document.querySelector(".root") as HTMLAreaElement;
   initRoute(root);
 })();
-HOLAAAA;
